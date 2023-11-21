@@ -26,6 +26,7 @@ Shop section showcasing different product categories with "See More" links.
 Footer with various sections including links to navigate, social media links, and legal information.
 
 ## Screenshots
+ ![amzon vedio](https://github.com/Gokilp/Amazon_clone/assets/76507378/686b3554-4eb3-4611-9615-d76760f7a5d2)
 
 
 ## Installation
