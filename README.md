@@ -32,7 +32,7 @@ Footer with various sections including links to navigate, social media links, an
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/amazon-clone.git
+    git@github.com:Gokilp/Amazon_clone.git
     ```
 2. Open the project in your preferred code editor.
 
