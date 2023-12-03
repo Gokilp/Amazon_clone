@@ -1,13 +1,13 @@
 # Project Title
 
-Amazon Online Store Clone
+Zerodha Landing page
 
 ## Table of Contents
 1. [Description](#description)
-2. [Features](#features)
-3. [Screenshots](#screenshots)
-4. [Installation](#installation)
-5. [Contributing](#contributing)
+2. [Demo](#Demo)
+3. [Features](#features)
+5. [Installation](#installation)
+6. [Contributing](#contributing)
 
 # Zerodha
 
@@ -15,9 +15,10 @@ Amazon Online Store Clone
 
 This project demonstrates a web interface inspired by Zerodha, an online platform for investing in stocks, derivatives, mutual funds, and more. The provided HTML structure showcases a landing page with various sections resembling the Zerodha platform's design elements.
 
-## Preview
+## Demo
 
-![Zerodha Landing Page](images/landing.png)
+https://github.com/Gokilp/Amazon_clone/assets/76507378/d4f5ad33-ee5c-43c1-ab33-e9e05e378141
+
 
 ## Features
 
