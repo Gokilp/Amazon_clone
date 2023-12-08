@@ -6,8 +6,9 @@ Amazon Online Store Clone
 1. [Description](#description)
 2. [Features](#features)
 3. [Screenshots](#screenshots)
-4. [Installation](#installation)
-5. [Contributing](#contributing)
+4. [Demo](#Demo)
+5. [Installation](#installation)
+6. [Contributing](#contributing)
 
 ## Description
 This project is an HTML/CSS clone of the Amazon online store interface. 
@@ -24,6 +25,11 @@ Hero section displaying a message and an image.
 Shop section showcasing different product categories with "See More" links.
 
 Footer with various sections including links to navigate, social media links, and legal information.
+
+
+## Demo 
+
+
 
 ## Screenshots
  ![amzon vedio](https://github.com/Gokilp/Amazon_clone/assets/76507378/686b3554-4eb3-4611-9615-d76760f7a5d2)
