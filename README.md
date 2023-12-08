@@ -29,6 +29,9 @@ Footer with various sections including links to navigate, social media links, an
 
 ## Demo 
 
+ ![amzon Demo](https://gokilp.github.io/Amazon_clone/)
+
+{https://gokilp.github.io/Amazon_clone/]
 
 
 ## Screenshots
