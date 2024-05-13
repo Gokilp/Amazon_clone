@@ -17,6 +17,7 @@ This project aims to replicate the layout and structure of the Amazon website's 
 
 It replicates several key components of the Amazon website, such as the header, navigation bar, hero section, product sections, and footer. The layout is responsive and designed to adapt to different screen sizes.
 
+
 ## Features
 Navbar with essential Amazon-like functionalities such as search, user account, cart, and navigation panels.
 
