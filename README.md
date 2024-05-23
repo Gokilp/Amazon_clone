@@ -17,7 +17,6 @@ This project aims to replicate the layout and structure of the Amazon website's 
 
 It replicates several key components of the Amazon website, such as the header, navigation bar, hero section, product sections, and footer. The layout is responsive and designed to adapt to different screen sizes.
 
-
 ## Features
 Navbar with essential Amazon-like functionalities such as search, user account, cart, and navigation panels.
 
@@ -40,7 +39,6 @@ Check out the live demo [here](https://amazon-theta-gray.vercel.app/)
     git@github.com:Gokilp/Amazon_clone.git
     ```
 2. Open the project in your preferred code editor.
-
 
 ## Contributing
 
